@@ -1,0 +1,43 @@
+{
+  "name": "school-website",
+  "version": "1.0.0",
+  "description": "A responsive and interactive school website with Firebase-powered admin interface and Email.js integration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrfrankzw/mrfrankzw.github.io/"
+  },
+  "keywords": [
+    "school-website",
+    "bootstrap",
+    "firebase",
+    "emailjs",
+    "aos",
+    "swiper",
+    "isotope",
+    "imagesloaded"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/school-website/issues"
+  },
+  "homepage": "https://github.com/your-username/school-website#readme",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.0",
+    "emailjs-com": "^3.2.0",
+    "firebase": "^9.22.0",
+    "glightbox": "^3.2.0",
+    "imagesloaded": "^5.0.0",
+    "isotope-layout": "^3.0.6",
+    "swiper": "^10.0.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
